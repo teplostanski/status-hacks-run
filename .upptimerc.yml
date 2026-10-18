@@ -8,6 +8,8 @@ sites:
     url: https://200ok.hacks.run/
   - name: Rand API
     url: https://rand.hacks.run/
+  - name: Undevice Docs
+    url: https://undevice.hacks.run/
   - name: Kaomoji API
     url: https://kaomoji.hacks.run
 
